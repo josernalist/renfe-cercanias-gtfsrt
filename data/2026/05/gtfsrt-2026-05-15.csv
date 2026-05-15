@@ -1,1 +1,3 @@
 timestamp_utc,trip_id,tren,fecha_tren,estado,retraso_seg,retraso_min
+2026-05-15T02:50:44Z,5132V77600R4,5132V,,SCHEDULED,120,2.0
+2026-05-15T02:50:44Z,5132V78280R2,5132V,,SCHEDULED,240,4.0
