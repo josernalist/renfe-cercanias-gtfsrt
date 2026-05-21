@@ -1,1 +1,3 @@
 timestamp_utc,trip_id,tren,fecha_tren,estado,retraso_seg,retraso_min
+2026-05-21T02:50:26Z,5138J77502R4,5138J,,SCHEDULED,60,1.0
+2026-05-21T02:50:26Z,1038J21601C2,1038J,,SCHEDULED,-60,-1.0
