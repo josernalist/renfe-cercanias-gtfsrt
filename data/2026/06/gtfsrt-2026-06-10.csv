@@ -1,2 +1,3 @@
 timestamp_utc,trip_id,tren,fecha_tren,estado,retraso_seg,retraso_min
 2026-06-10T00:00:55Z,2058X70400C5,2058X,,SCHEDULED,0,0.0
+2026-06-10T00:10:34Z,1058X21504C2,1058X,,SCHEDULED,-12300,-205.0
